@@ -1,0 +1,1 @@
+用户密码加密：MD5+salt salt是用户id
